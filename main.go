@@ -5,7 +5,7 @@ import (
 	"github.com/swaggo/gin-swagger"
 	"github.com/swaggo/gin-swagger/swaggerFiles"
 	"github.com/swaggo/swag/example/celler/controller"
-	_ "github.com/swaggo/swag/example/celler/docs"
+	_ "github.com/tsun0/otame_swaggo/docs"
 )
 
 // @title Go Friday API
